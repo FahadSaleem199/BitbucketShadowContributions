@@ -1,3 +1,1 @@
-# Merged in dev (pull request #3739)
-
-OA-4287-default-flat
+# ALP-8858 Update items import template to include discount items
