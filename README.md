@@ -1,5 +1,1 @@
-# Merged in ALP-FAHAD-13-JAN (pull request #461)
-
-Add validation errors
-
-Approved-by: S.M Usman Ali
+# ALP-Add Tire Item and Tire Item Details Export Functionality
