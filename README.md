@@ -1,3 +1,6 @@
-# Merged in dev (pull request #518)
+# Merged in ALP-Script-to-Fix-CustomVehicleName (pull request #519)
 
-Merging dev branch to fetch latest changes
+ALP-Script API added to fix custom vehicle name
+
+Approved-by: Seerat Ahmed Khan
+Approved-by: Abtisam Ahmed Ansari
