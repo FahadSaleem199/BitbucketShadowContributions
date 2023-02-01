@@ -1,7 +1,3 @@
-# Merged in ALP-FAHAD-31st-JAN (pull request #513)
+# Merged in dev (pull request #518)
 
-ALP FAHAD-31st JAN
-
-Approved-by: Seerat Ahmed Khan
-Approved-by: Hajaj khan
-Approved-by: Abtisam Ahmed Ansari
+Merging dev branch to fetch latest changes
