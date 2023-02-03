@@ -1,5 +1,6 @@
-# Merged in ALP-Add-Missing-Feature-Flags (pull request #525)
+# Merged in ALP-FAHAD-02-FEB (pull request #523)
 
-ALP: Add Missing Features Flags in Models
+ALP-Fix Export Payment Details Keys
 
-Approved-by: Abtisam Ahmed Ansari
+Approved-by: Hajaj khan
+Approved-by: S.M Usman Ali
