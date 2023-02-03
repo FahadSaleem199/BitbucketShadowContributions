@@ -1,6 +1,3 @@
-# Merged in ALP-FAHAD-02-FEB (pull request #523)
+# ALP-Fix Export Payment Details Keys
 
-ALP-Fix Export Payment Details Keys
-
-Approved-by: Hajaj khan
-Approved-by: S.M Usman Ali
+(cherry picked from commit 5c67c53eb525cc157b5f3337b9c187b138fe81f2)
