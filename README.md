@@ -1,5 +1,1 @@
-# Merged in ALP-9686-Order-Discount-Issue (pull request #8742)
-
-ALP-Fix Order/Item Disocunt Issue
-
-Approved-by: Seerat Ahmed Khan
+# ALP-Fix-Fee-Discount-Issue-on-RO-PDF
