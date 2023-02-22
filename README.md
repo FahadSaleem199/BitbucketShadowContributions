@@ -1,1 +1,1 @@
-# ALP-Add-Script-to-add-s3-folders-to-archive
+# ALP-Add-Location-ExternalId-When-Fetching-Locations
