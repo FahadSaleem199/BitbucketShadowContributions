@@ -1,6 +1,1 @@
-# Merged in ALP-9827-FAHAD (pull request #586)
-
-ALP-9827-Fix-MultiLocation-MultiShops-Rating-Review
-
-Approved-by: Hajaj khan
-Approved-by: Abtisam Ahmed Ansari
+# Merge branch 'dev' of https://bitbucket.org/autoleap/alponbbackend into ALP-Script-to-Archive-S3-Folders
