@@ -1,1 +1,1 @@
-# ALP Add Script for PROD to Update SFUIDs data in companies
+# ALP-Add Mitchell1Integration Flag Globally
