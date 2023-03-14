@@ -1,3 +1,1 @@
-# Merged in ALP-Fix-Business-Summary (pull request #19409)
-
-ALP-Add-Customer-Facing-Business-Summary-Endpoints
+# ALP-ADD-Appointment-Fields-For-Health-Report
