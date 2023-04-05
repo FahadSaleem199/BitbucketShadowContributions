@@ -1,5 +1,1 @@
-# Merged in ALP-9427-General-Logs-Implementation (pull request #703)
-
-ALP-General-Logs-Implementation
-
-Approved-by: Hajaj khan
+# ALP-10394-Change-ExternalId-Sequence-to-Onboarding-And-Fix-Bugs
