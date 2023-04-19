@@ -1,3 +1,1 @@
-# Merged in ALP-FAHAD-17-APRIL (pull request #758)
-
-ALP-Fixes-Regression-Issues
+# ALP-Script-to-add-ExternalIds-in-Suppliers-&-Modify-Globally-Flag-Script
