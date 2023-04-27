@@ -1,1 +1,3 @@
-# Merge branch 'dev' of https://bitbucket.org/autoleap/alponbbackend into ALP-FAHAD-26-APRIL
+# Merged in ALP-FAHAD-26-APRIL (pull request #786)
+
+ALP-Script-to-Sync-Vehicle-Details-Across-Application
