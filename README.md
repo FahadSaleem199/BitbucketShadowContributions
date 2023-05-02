@@ -1,3 +1,1 @@
-# Merged in ALP-FAHAD-26-APRIL (pull request #469)
-
-ALP-10397-Update-User-Profile-Details
+# ALP-10301-10132-Fix-Changes
