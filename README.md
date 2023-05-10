@@ -1,5 +1,1 @@
-# Merged in dev (pull request #803)
-
-ALP-Update-Items-Files-Headers
-
-Approved-by: Hajaj khan
+# ALP-10681-Add metrics to daily tenants KPIs send to CX
