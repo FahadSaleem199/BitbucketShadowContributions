@@ -1,3 +1,1 @@
-# Merged in dev (pull request #919)
-
-testing orders export on QA
+# ALP-11344-Scheduled-Followup-ROs-Script
