@@ -1,1 +1,3 @@
-# OA-59-Fix-Invenotry-Field-Issue
+# Merged in dev (pull request #935)
+
+OA-53-Fix-Email-Validation-issue
