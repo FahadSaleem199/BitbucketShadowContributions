@@ -1,3 +1,1 @@
-# Merged in dev (pull request #935)
-
-OA-53-Fix-Email-Validation-issue
+# OA-72-add-missing-item-fields-in-canned-service-import
