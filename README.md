@@ -1,5 +1,1 @@
-# Merged in ALP-11693-FAHAD (pull request #5857)
-
-ALP-Fix-Template-Email-Subject-Missing-Issue
-
-Approved-by: Seerat Ahmed Khan
+# ALP-11741-Vehicle-History-Modal-Incorrect-Attachment-Count
