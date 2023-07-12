@@ -1,3 +1,1 @@
-# Merged in ALP-10301-10132-FAHD (pull request #473)
-
-ALP-10301-10132-Fix-Changes
+# OA-94-95-Fix-CA-USA-ZipCodes-and-Mileage-Issue
