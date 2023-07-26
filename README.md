@@ -1,3 +1,1 @@
-# Merged in OA-26th-JULY-FAHAD (pull request #1039)
-
-Multilocation PROD Companies/Shop Data and Add SfUid in Companies API
+# OA-54-Fixed-Import-Export-Flat-Rate-Items
