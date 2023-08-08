@@ -1,5 +1,1 @@
-# Merged in OA-04-AUGUST-FAHAD (pull request #1075)
-
-Zendesk Service Flag Added
-
-Approved-by: S.M Usman Ali
+# Import/Export Organiations and Users on Zendesk
