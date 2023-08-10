@@ -1,3 +1,1 @@
-# Merged in OA-132-FAHAD (pull request #1083)
-
-Import/Export Organiations and Users on Zendesk
+# OA-152-Zendesk-Update-Company/Shop/User-Details
