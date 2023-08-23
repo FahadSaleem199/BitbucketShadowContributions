@@ -1,3 +1,1 @@
-# Merged in OA-223-FAHAD (pull request #1146)
-
-OA-223 FAHAD
+# OA-223-Script-to-fix-shop-data
