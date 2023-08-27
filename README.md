@@ -1,3 +1,1 @@
-# Merged in Followup-work-in-OA (pull request #1151)
-
-Followup work in OA
+# Marketing Promotional Campaign SQS Batch Send/Recieve Implementation
