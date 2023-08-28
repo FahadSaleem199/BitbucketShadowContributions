@@ -1,1 +1,1 @@
-# Marketing Promotional Campaign SQS Batch Send/Recieve Implementation
+# Testing Bulk Email on QA
