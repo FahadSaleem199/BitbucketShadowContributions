@@ -1,3 +1,1 @@
-# Merged in ALP-12951-FAHAD-06-OCT (pull request #6897)
-
-ALP-12951-Fix-OrderService-Reference-Issue
+# OA-332-AND-OA-369-FIXES-09-OCT
