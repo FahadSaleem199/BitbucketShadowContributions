@@ -1,3 +1,1 @@
-# Merged in dev (pull request #1406)
-
-Script Updated
+# OA-402-Update-Company-Data-in-Shops
