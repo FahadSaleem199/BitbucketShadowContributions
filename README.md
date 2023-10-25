@@ -1,5 +1,6 @@
-# Merged in OA-374-FAHAD-25-OCT (pull request #1425)
+# Merged in OA-402-FAHAD-23-OCT (pull request #1419)
 
-OA-374-Add-Inspection-Notes-on-Feature-Flag
+OA-402-Update-Company-Data-in-Shops
 
 Approved-by: Seerat Ahmed Khan
+Approved-by: Muhammad Awais
