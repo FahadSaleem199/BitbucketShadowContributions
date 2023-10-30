@@ -1,5 +1,3 @@
-# Merged in 30-OCT-HOTFIX-FAHAD (pull request #1439)
+# Merged in release/qa (pull request #1442)
 
-Fix-Appsettings_issue
-
-Approved-by: Seerat Ahmed Khan
+Release/qa
