@@ -1,5 +1,3 @@
-# Merged in OA-466-FAHAD-31st-OCT (pull request #1446)
+# Merged in OA-352-FAHAD-02-NOV (pull request #1449)
 
-OA-472-Update-Items-Script
-
-Approved-by: Seerat Ahmed Khan
+OA-352-Fix-Missing-Customer-Export-Data-Issue
