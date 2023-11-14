@@ -1,3 +1,1 @@
-# Merged in OA-506-507-Scripts-FAHAD (pull request #1494)
-
-OA-506-507-Data-Scripts
+# OA-524-Refactor-SQS-Receiving-Messages-API
