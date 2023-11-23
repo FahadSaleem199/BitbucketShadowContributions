@@ -1,3 +1,1 @@
-# Merged in dev (pull request #699)
-
-Fix-Socket-Type-for-QBO-Customers-API
+# Subscription Revoked Flag Fixes
