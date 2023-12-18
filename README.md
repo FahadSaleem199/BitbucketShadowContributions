@@ -1,1 +1,1 @@
-# Fix Error
+# Add Finalize State Type in Script
