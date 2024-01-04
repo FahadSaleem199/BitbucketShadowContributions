@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1)
+# Merged in release/qa (pull request #2)
 
 ALP-Scripts
