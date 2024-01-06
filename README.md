@@ -1,3 +1,1 @@
-# Merged in ALP-13524-FAHAD-24-NOV-2023 (pull request #7471)
-
-ALP-13524-Appointments-Reminders-Creation-Fixed
+# ALP-13892-Add-Online-Order-groupId-in-Supplier-Drill-Down-Report
