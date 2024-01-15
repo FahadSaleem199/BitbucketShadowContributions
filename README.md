@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1709)
+# Merged in release/qa (pull request #1710)
 
 Remove Route of Old Sales Report
