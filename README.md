@@ -1,3 +1,3 @@
-# Merged in dev (pull request #84)
+# Merged in release/qa (pull request #85)
 
 Payments Data Report
