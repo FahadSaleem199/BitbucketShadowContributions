@@ -1,3 +1,3 @@
-# Merged in dev (pull request #97)
+# Merged in release/qa (pull request #98)
 
 update modal for global search
