@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #92)
+# Merged in dev (pull request #94)
 
-add global search script
+update error message
