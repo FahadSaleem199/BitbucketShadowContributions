@@ -1,3 +1,3 @@
-# Merged in dev (pull request #123)
+# Merged in release/qa (pull request #124)
 
 OA-865-FAHAD
