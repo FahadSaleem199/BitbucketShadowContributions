@@ -1,3 +1,1 @@
-# Merged in dev (pull request #1767)
-
-OA-Fix-Demo-Order-Import
+# OA-938-Global-Pay-Enabled-Globally
