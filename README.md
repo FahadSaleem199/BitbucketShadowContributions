@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1768)
+# Merged in release/qa (pull request #1769)
 
-OA-938-Global-Pay-Enabled-Globally
+Release/qa
