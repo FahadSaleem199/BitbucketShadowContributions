@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1777)
+# Merged in dev (pull request #1779)
 
-Dev
+deletion flow added
