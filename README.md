@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1779)
+# Merged in dev (pull request #1780)
 
-deletion flow added
+removed unused column
