@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1780)
+# Merged in dev (pull request #1782)
 
-removed unused column
+revert Stuck Scheduled Jobs
