@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #145)
+# Merged in dev (pull request #156)
 
-Release/qa
+added locationId and name in invLogs
