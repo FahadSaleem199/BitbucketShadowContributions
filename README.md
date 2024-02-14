@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #1783)
+# Merged in dev (pull request #1788)
 
-Release/qa
+import canned inspection in canned services
