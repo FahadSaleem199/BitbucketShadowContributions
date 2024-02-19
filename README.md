@@ -1,3 +1,5 @@
-# Merged in dev (pull request #166)
+# Merged in release/qa (pull request #167)
 
-Dev
+Release/qa
+
+Approved-by: Muhammad Awais
