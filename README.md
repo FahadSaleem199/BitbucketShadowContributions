@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1805)
+# Merged in release/qa (pull request #1806)
 
-OA-1029-Imported ROs do not show as finalized on the Workboard
+OA-1029-FAHAD
