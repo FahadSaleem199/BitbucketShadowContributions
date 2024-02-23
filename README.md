@@ -1,3 +1,5 @@
-# Merged in dev (pull request #1813)
+# Merged in release/qa (pull request #1814)
 
-Dev
+Release/qa
+
+Approved-by: Jawad Farooqi
