@@ -1,5 +1,3 @@
-# Merged in dev (pull request #1815)
+# Merged in release/qa (pull request #1816)
 
 OA-Hotfix-Mongoose-Error
-
-Approved-by: Jawad Farooqi
