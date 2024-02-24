@@ -1,3 +1,3 @@
-# Merged in dev (pull request #176)
+# Merged in release/qa (pull request #177)
 
 Script Updated
