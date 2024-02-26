@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #179)
+# Merged in dev (pull request #183)
 
-OA-Script-Update-Kanban-Model
+Dev
