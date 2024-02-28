@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #1816)
+# Merged in dev (pull request #1819)
 
-OA-Hotfix-Mongoose-Error
+fix vehicle search
