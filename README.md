@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1822)
+# Merged in dev (pull request #1825)
 
-set daily date
+model updated based on new doc
