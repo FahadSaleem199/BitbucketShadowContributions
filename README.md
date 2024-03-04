@@ -1,3 +1,1 @@
-# Merged in dev (pull request #1825)
-
-model updated based on new doc
+# OA-1077-Release-Flags-Globally-for-new-and-old-tenants
