@@ -1,5 +1,1 @@
-# Merged in OA-1116-FAHAD (pull request #14760)
-
-OA-1116-FL-Filters-Not-Working-on-Core-and-Return
-
-Approved-by: Muhammad Awais
+# OA-977-Handled-OrderStatus-to-Invoice-in-case-of-Unsubmitted-Parts
