@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1860)
+# Merged in release/qa (pull request #1861)
 
-OA-Revert-Health-Report-Error
+Release/qa
