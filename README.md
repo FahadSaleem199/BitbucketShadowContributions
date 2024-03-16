@@ -1,3 +1,1 @@
-# Merged in release/qa (pull request #1828)
-
-Release/qa
+# OA-1216-Fix-Suppliers-Export
