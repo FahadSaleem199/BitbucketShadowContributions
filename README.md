@@ -1,3 +1,1 @@
-# Merged in dev (pull request #1903)
-
-Dev
+# Sync Appsetting in Main/Tools/Scripts
