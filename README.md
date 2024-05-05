@@ -1,1 +1,1 @@
-# Sync Appettings in Main/Tools/Scripts
+# OA-Script
