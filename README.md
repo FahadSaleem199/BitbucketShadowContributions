@@ -1,3 +1,3 @@
-# Merged in new-env-setup (pull request #9357)
+# Merged in OA-Models-Sync (pull request #9304)
 
-new-env-setup
+Sync Appsettings in Main/Tools/Scripts
