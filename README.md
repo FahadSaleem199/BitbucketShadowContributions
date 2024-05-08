@@ -1,1 +1,1 @@
-# Sync Appsettings in Main/Tools/Scripts
+# Qa2-Env
