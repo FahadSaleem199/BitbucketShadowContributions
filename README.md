@@ -1,3 +1,3 @@
-# Merged in OA-Models-Sync (pull request #1953)
+# Merged in dev (pull request #1960)
 
-Sync Appsetting in Main/Tools/Scripts
+Dev
