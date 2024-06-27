@@ -1,3 +1,3 @@
-# Merged in dev (pull request #552)
+# Merged in release/qa (pull request #553)
 
 ALP-15884
