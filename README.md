@@ -1,5 +1,1 @@
-# Merged in ALP-15861-FAHAD (pull request #10001)
-
-ALP-15861-PDT-Timezone-Default-Date-Issue
-
-Approved-by: Muhammad Awais
+# EBF_OA_1955_Fix_Typo_Shop_Supplies_Failed_To_Add
