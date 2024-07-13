@@ -1,5 +1,5 @@
-# Merged in OA-1967-FAHAD (pull request #2191)
+# Merged in OA-1939-FAHAD (pull request #2151)
 
-OA-1967-Serach-SFUID-in-features-module
+OA-1939-Remove-Users-Token-When-Timezone-Update
 
 Approved-by: Muhammad Awais
