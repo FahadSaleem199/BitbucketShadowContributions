@@ -1,3 +1,3 @@
-# Merged in dev (pull request #2208)
+# Merged in release/qa (pull request #2209)
 
 Fix-Average-Cost-Issue
