@@ -1,3 +1,3 @@
-# Merged in item-import-update (pull request #2207)
+# Merged in dev (pull request #2208)
 
-Fix-Average-Cost-Issue-in-Items-When-Importing-Inventory
+Fix-Average-Cost-Issue
