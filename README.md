@@ -1,3 +1,1 @@
-# Merged in dev (pull request #2217)
-
-OA-1967-SfId-accessble-on-companies-page
+# OA-1965-Add-Merger-ExternalId-Column-For-Customer-And-Vehicles
