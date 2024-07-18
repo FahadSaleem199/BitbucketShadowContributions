@@ -1,3 +1,1 @@
-# Merged in release/qa (pull request #2216)
-
-Release/qa
+# OA-1967-SfId-accessble-on-companies-page
