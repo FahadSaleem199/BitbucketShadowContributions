@@ -1,3 +1,3 @@
-# Merged in dev (pull request #694)
+# Merged in release/qa (pull request #695)
 
 OA-Statements-Generation-Uploading-To-GDrive
