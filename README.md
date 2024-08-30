@@ -1,3 +1,5 @@
-# Merged in dev (pull request #776)
+# Merged in release/qa (pull request #775)
 
 OA-Scripts
+
+Approved-by: Muhammad Awais
