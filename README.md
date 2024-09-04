@@ -1,3 +1,1 @@
-# Merged in dev (pull request #2454)
-
-[Testing-QA-]OA-Pending-Import-Fix
+# OA-Fix-Import-Inventory-Count-Issue-in-Items-Collection
