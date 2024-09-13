@@ -1,1 +1,3 @@
-# Merge branch 'dev' of https://bitbucket.org/autoleap/alpimports into dev
+# Merged in dev (pull request #27)
+
+OA-Start-Adding-Global-Search-On-Complete-Imports
