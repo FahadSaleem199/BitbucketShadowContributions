@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #38)
+# Merged in dev (pull request #40)
 
-OA-Fix-Inventory-Import-Issue-For-New-Server
+sync-onboarding-alpimports
