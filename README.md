@@ -1,3 +1,3 @@
-# Merged in dev (pull request #893)
+# Merged in release/qa (pull request #894)
 
 OA-Script
