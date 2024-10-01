@@ -1,3 +1,1 @@
-# Merged in dev (pull request #2544)
-
-add-template
+# ALP-17291-Fix-Busniness-Summary-Report-Forbidden-Issue
