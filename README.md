@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1124)
+# Merged in dev (pull request #1132)
 
-Replaced key isDisplayPaymentBannerEnable -> isDisplayPaymentBannerEnabled@
+Dev
