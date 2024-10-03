@@ -1,3 +1,3 @@
-# Merged in dev (pull request #73)
+# Merged in release/qa (pull request #74)
 
 OA-Fix-FleetNumber-Export
