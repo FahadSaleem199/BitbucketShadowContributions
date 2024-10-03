@@ -1,3 +1,3 @@
-# Merged in dev (pull request #66)
+# Merged in release/qa (pull request #67)
 
 OA-2412-Fixes
