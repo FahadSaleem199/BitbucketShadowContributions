@@ -1,3 +1,3 @@
-# Merged in dev (pull request #919)
+# Merged in release/qa (pull request #920)
 
 OA-Bulk-Statment-Generations-Revamp
