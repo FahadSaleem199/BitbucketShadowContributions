@@ -1,3 +1,3 @@
-# Merged in dev (pull request #938)
+# Merged in release/qa (pull request #939)
 
 OA-Add-Safe-Checks-Bulk-Statement-Generation
