@@ -1,3 +1,3 @@
-# Merged in dev (pull request #942)
+# Merged in release/qa (pull request #943)
 
 OA-Fix-Statement-Generation-Changes
