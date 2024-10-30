@@ -1,3 +1,3 @@
-# Merged in dev (pull request #994)
+# Merged in release/qa (pull request #995)
 
 roles added
