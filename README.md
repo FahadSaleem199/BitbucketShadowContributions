@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1013)
+# Merged in release/qa (pull request #1014)
 
 OA-Statements
