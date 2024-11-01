@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1015)
+# Merged in release/qa (pull request #1016)
 
 OA-Statement-Fix-Size-Issue
