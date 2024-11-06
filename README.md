@@ -1,1 +1,1 @@
-# OA-Disable-Zip-Bulk
+# OA-Disable-Bulk-Invoice
