@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1044)
+# Merged in release/qa (pull request #1045)
 
 OA-Sync-QBO-Files-in-scripts
