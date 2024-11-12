@@ -1,5 +1,1 @@
-# Merged in ALP-Missing-QA-Changes (pull request #12865)
-
-ALP-Missing-Qa-Changes
-
-Approved-by: S.M Usman Ali
+# ALP-17528-Fix-TirHub-TireConnect-QBO-Posting-Issue
