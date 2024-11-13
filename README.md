@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1079)
+# Merged in release/qa (pull request #1080)
 
 OA-Script-Bulk-Invoice-Fix
