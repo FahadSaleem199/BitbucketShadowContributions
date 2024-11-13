@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1175)
+# Merged in dev (pull request #1195)
 
-OA-2537: Tooltip addded
+OA: Build failing issue resolved
