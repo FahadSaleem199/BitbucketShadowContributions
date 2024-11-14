@@ -1,3 +1,3 @@
-# Merged in OA-Fix-Supplier-Issues (pull request #2726)
+# Merged in release/qa (pull request #2727)
 
 OA-Fix-QBO-Supplier-Import-Issue
