@@ -1,3 +1,1 @@
-# Merged in dev (pull request #2773)
-
-OA-Fix-Updating-Flags-When-Update-Company
+# OA-2796-Show-CreatedBy-Field-In-Companies-Screen
