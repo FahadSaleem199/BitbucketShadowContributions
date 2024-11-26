@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1221)
+# Merged in release/qa (pull request #1222)
 
 OA-Fix-Created-By
