@@ -1,3 +1,1 @@
-# Merged in dev (pull request #1093)
-
-Dev
+# Merge remote-tracking branch 'refs/remotes/origin/release/qa' into release/qa
