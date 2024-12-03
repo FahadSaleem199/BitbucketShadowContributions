@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1114)
+# Merged in release/qa (pull request #1115)
 
 Duplicate CM report
