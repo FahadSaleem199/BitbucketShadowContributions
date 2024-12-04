@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1123)
+# Merged in dev (pull request #1125)
 
-offset adjusted
+value fixed in sequence
