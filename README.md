@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1252)
+# Merged in dev (pull request #1254)
 
-OA-2797 : Issue fixed
+ALP-17404: isFluidPartLookupTypeEnabled flag added
