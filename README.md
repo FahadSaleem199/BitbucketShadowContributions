@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1152)
+# Merged in release/qa (pull request #1153)
 
 OA-Script-Sync-Quickbooks-Changed
