@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #2853)
+# Merged in dev (pull request #2866)
 
-Release/qa
+twilio master shop update from company
