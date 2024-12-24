@@ -1,3 +1,3 @@
-# Merged in dev (pull request #2908)
+# Merged in release/qa (pull request #2911)
 
-OA-Fix-TaxRate-Import-Issue
+Release/qa
