@@ -1,3 +1,3 @@
-# Merged in dev (pull request #2955)
+# Merged in release/qa (pull request #2956)
 
-OA-Fix-Inventory-Import-Issue
+Release/qa
