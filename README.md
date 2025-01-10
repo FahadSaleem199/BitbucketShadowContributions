@@ -1,3 +1,1 @@
-# Merged in release/qa (pull request #2956)
-
-Release/qa
+# OA-3059-Turn-Off-CustomerVehicleMandatoryFields-Flag-For-Midas
