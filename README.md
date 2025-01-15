@@ -1,3 +1,3 @@
-# Merged in dev (pull request #2973)
+# Merged in release/qa (pull request #2999)
 
-OA-3059-Turn-Off-CustomerVehicleMandatoryFields-Flag-For-Midas
+Release/qa
