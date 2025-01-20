@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #2999)
+# Merged in dev (pull request #3027)
 
-Release/qa
+sales code duplicate fix
