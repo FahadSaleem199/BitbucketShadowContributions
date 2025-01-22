@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3048)
+# Merged in release/qa (pull request #3049)
 
-Dev
+Release/qa
