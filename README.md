@@ -1,1 +1,1 @@
-# OA-Disable-Bulk-Invoice-TimeTrigger
+# OA-Diable-Zip-Bulk-Invoice-Trigger
