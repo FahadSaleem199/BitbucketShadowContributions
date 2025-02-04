@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1390)
+# Merged in dev (pull request #1394)
 
-OA-Fix-Delay-Login-Issue
+ALP-19512: View estimate button fixed on customer facing.
