@@ -1,3 +1,3 @@
-# Merged in dev (pull request #158)
+# Merged in release/qa (pull request #159)
 
 OA-Fix-Item-Part-Association-Batch-Issue
