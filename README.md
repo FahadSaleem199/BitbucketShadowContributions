@@ -1,3 +1,3 @@
-# Merged in OA-Fix-Features-Flag-issues (pull request #1395)
+# Merged in dev (pull request #1396)
 
 OA-Fix-Feature-Flags-Issues
