@@ -1,3 +1,3 @@
-# Merged in dev (pull request #184)
+# Merged in release/qa (pull request #188)
 
-OA-Fix-ML-Compatibility-With-MaxQuantity-And-RestockLevel-Field-Issue
+Release/qa
