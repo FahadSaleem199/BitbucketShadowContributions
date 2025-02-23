@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3198)
+# Merged in release/qa (pull request #3199)
 
 OA-3269-Metrics-Data-Report
