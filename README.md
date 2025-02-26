@@ -1,3 +1,1 @@
-# Merged in release/qa (pull request #3206)
-
-Release/qa
+# OA-3273-Add-TierType-Enterprise-Fields-For-Zendesk
