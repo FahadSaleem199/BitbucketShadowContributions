@@ -1,3 +1,3 @@
-# Merged in dev (pull request #118)
+# Merged in qa (pull request #119)
 
 OA-Fix-Logger-Services
