@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #1397)
+# Merged in dev (pull request #1463)
 
-Release/qa
+Chnage PROD socket service URL services to services2
