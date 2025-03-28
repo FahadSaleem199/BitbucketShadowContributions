@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3342)
+# Merged in dev (pull request #3346)
 
-[DEBUG]: QBO Disconnection Issue
+Dev
