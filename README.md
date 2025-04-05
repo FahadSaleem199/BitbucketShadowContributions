@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3382)
+# Merged in release/qa (pull request #3383)
 
 OA-Modify-Bulk-Post-Script
