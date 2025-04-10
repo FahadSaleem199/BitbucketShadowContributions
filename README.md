@@ -1,5 +1,1 @@
-# Merged in OA-3245-FAHAD (pull request #14009)
-
-OA-3245-OK-Tire-External-Inspections-Checklist-Not-Visible-Fixed
-
-Approved-by: M Awais
+# ALP-20348: Fix Missing ManualOrders Suppliers Issue
