@@ -1,3 +1,1 @@
-# Merged in release/qa (pull request #171)
-
-Release/qa
+# OA-Disable-Zip-Bulk-Statement
