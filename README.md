@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1357)
+# Merged in release/qa (pull request #1358)
 
 OA-Fic
