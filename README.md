@@ -1,3 +1,3 @@
-# Merged in OA-Update-Contact (pull request #265)
+# Merged in dev (pull request #266)
 
 OA-Fix-Update-Contacts-Import-And-GlobalSearch
