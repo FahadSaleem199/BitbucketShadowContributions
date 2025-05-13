@@ -1,3 +1,3 @@
-# Merged in dev (pull request #269)
+# Merged in release/qa (pull request #268)
 
-OA-Fix-Bypass-Suggestion-Using-Salescode-ShortName
+Release/qa
