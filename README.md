@@ -1,3 +1,1 @@
-# Merged in release/qa (pull request #3521)
-
-Release/qa
+# OA-3866-New-Tenant-Creation
