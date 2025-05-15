@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1625)
+# Merged in release/qa (pull request #1626)
 
 OA-fixes : Multillocation issue reverted
