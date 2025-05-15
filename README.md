@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #1464)
+# Merged in dev (pull request #1625)
 
-Chnage PROD socket service URL services to services2
+OA-fixes : Multillocation issue reverted
