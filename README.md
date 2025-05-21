@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1633)
+# Merged in dev (pull request #1634)
 
-OA-tenant-opt: Issue resolved
+OA-salesTax: Issue fixed
