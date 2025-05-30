@@ -1,3 +1,3 @@
-# Merged in dev (pull request #295)
+# Merged in release/qa (pull request #296)
 
-OA-Canned-Service-Import-Fix
+Release/qa
