@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1429)
+# Merged in release/qa (pull request #1430)
 
 OA-3994-new-tire
