@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3592)
+# Merged in dev (pull request #3593)
 
-OA-Script-Remove-SANDBOX-Orphaned-Collections-from-DB
+Dev
