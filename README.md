@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3603)
+# Merged in dev (pull request #3606)
 
-Dev
+fix-apptool-cannedservices-import
