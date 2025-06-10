@@ -1,3 +1,1 @@
-# Merged in dev (pull request #1634)
-
-OA-salesTax: Issue fixed
+# OA-Fix-Grammatical-Changes-in-Tier-Tooltip
