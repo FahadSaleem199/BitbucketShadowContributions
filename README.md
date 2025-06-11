@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1460)
+# Merged in release/qa (pull request #1461)
 
 OA-Fix
