@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #305)
+# Merged in dev (pull request #307)
 
-Release/qa
+sales code and supplier update item issue
