@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #3615)
+# Merged in dev (pull request #3624)
 
-Release/qa
+ALP-21272: Add new templates type
