@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #1660)
+# Merged in dev (pull request #1697)
 
-OA-Script-Remove-SANDBOX-Orphaned-Collections-from-DB
+OA-4042: Issue fixed
