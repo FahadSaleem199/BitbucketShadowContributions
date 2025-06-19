@@ -1,3 +1,1 @@
-# Merged in dev (pull request #1503)
-
-Dev
+# Merge branch 'staging' into release/qa
