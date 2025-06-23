@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #1525)
+# Merged in dev (pull request #1528)
 
-OA-Script
+OA-3863 inspection status correction script
