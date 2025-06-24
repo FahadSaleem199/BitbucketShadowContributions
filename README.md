@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3679)
+# Merged in dev (pull request #3680)
 
-prod catalog issues on new tanent creation
+catalog new tenant create isssue
