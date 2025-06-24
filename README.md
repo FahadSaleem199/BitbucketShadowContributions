@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3675)
+# Merged in release/qa (pull request #3676)
 
-OA-4165-Auto-Archive-Finalize-Invoices-When-Revenue-Recognition-Flag-On
+Release/qa
