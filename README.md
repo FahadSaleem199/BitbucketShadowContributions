@@ -1,3 +1,1 @@
-# Merged in release/qa (pull request #3671)
-
-OA-Fix-Subscription-Flag-Issue
+# OA-4165-Auto-Archive-Finalize-Invoices-When-Revenue-Recognition-Flag-On
