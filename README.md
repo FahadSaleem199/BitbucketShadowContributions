@@ -1,3 +1,3 @@
-# Merged in release/qa (pull request #3678)
+# Merged in dev (pull request #3679)
 
-catalog debug
+prod catalog issues on new tanent creation
