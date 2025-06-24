@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3680)
+# Merged in release/qa (pull request #3681)
 
-catalog new tenant create isssue
+Release/qa
