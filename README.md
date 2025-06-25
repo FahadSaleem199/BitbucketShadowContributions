@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1532)
+# Merged in release/qa (pull request #1533)
 
-OA-Scriot
+OA-Script
