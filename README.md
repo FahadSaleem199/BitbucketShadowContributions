@@ -1,3 +1,3 @@
-# Merged in dev (pull request #315)
+# Merged in release/qa (pull request #316)
 
 OA-Fix-Update-Customer-Import
