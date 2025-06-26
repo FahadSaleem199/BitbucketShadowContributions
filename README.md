@@ -1,1 +1,1 @@
-# OA-Enable-ZipBulk
+# OA-Disable-Zip-Bulk-Invoices-Trigger
