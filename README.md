@@ -1,3 +1,3 @@
-# Merged in dev (pull request #3695)
+# Merged in release/qa (pull request #3696)
 
 OA-Update-Midas-Royalty-Report-Setting
