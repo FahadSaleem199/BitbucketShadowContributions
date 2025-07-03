@@ -1,1 +1,3 @@
-# Merge branch 'dev' into OA-Optimize-Imports
+# Merged in dev (pull request #318)
+
+externalIds added
