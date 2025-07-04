@@ -1,1 +1,3 @@
-# Merge branch 'release/qa' into dev
+# Merged in dev (pull request #1583)
+
+Dev
