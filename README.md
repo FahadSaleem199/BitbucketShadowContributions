@@ -1,3 +1,3 @@
-# Merged in dev (pull request #1635)
+# Merged in release/qa (pull request #1636)
 
 OA-Fix-Warranties-Model-Undefined-Issue
